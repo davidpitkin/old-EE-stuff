@@ -1,0 +1,11 @@
+{
+  "id": "mahhek",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCWQiEWWfsM09e7XEqz6AM/QqQQPIRtLWl1ZMXagdTXvW644gJVdVOkLaw8eG/AfUu9mB/iGQTv/eSbVtVkBtu/OmOWs5c8gLg36AMWuITWxkSu8Tin6KpjOtv0FkCyuo0dJwQFsZ3xE7dWmmz4/3fj6s04aujPK8J9f47uARhzD6QhqMi92irOR7u6cr4JKFwwhRmkCTvwHXI4J5Q/LuBSWvnEqD9qzwjDpk8+HOkLP1WOAC9m/Qdt7yZjwRY6qBhmZP8EK28difAgol0Kwc1I/Ua+PqG0l8EqRQhbj+jdmk8PzbrpiPmsjzT0cQBbkm7sLsA3erZgBvuTHWylL5kF Bryan@TheStarbucks.com",
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZBoq7uwx94MiC7sKWdb2kjkL8M5A/k0my5ImWJzDjk4wPb9bNb7nTeS6NUY3T7zNYVy/ZT0D+rzupy/dRY6P1SXwGeqEeTDWdksJF6UiYn8MxCCtcjiLpcmxPe5uj4htdWpArIgLOPJ2yxEGTGqBa/8dhAj4INFSrf3eyjEHZVRu0zKNCcNdCUUVJgQK14xcCS412XN71/YA5YawXCsqE05FEpoJbJyJ+QfCACo0f+Ka+4nqWly2Cb0riHHmKSz4vmNWL4HnrtjQNOtFkgsQ8rIMA68Q1lmezoMhIr1uq+gQ810QesPiKT0JaBgOCT+KPz0OSLPiw1FjIoxTVp7f/ bryanstarbuck@Bryans-MacBook-Pro.local",
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfO/OwRIn245T6pUYIXBhyQtUWzsUDJ82DE8VHMOnjn/WkzFbqCTU/POwGMvu8MKgw51d9W7qk/m+XJq40WvrPlus8jfhpLrGs5Zi0hTKjhhDGeiUtg7WoILZrYbAbKgazUaEASExx6fGniL2PSFSSuTtqmnVne6ZF+Vn9FGmUMvsB2gQKb9GFIgBHcaUTBWLRoYHtjZ7ebnW1tnrmLzSZ0lWqVwRwBzjqeWl8dq9wEEIubMljfn5zsYWxCPeTcJhKg6YsZEajdCb90adAZFM7MWw4zWOyOlgLCiLngji/d7tA5D6QQKXYfZ9rIGiOtNqF4nNhTk+9z1xowmxsR3gP root@UpdateServer"
+  ],
+  "groups": [ "mahhek", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

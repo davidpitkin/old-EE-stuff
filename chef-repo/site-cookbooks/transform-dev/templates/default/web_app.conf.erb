@@ -1,0 +1,24 @@
+ #Djangos embeded mod_wsgi
+#WSGIPythonHome /srv/transform/lib/python2.7
+#WSGIDaemonProcess transform display-name=transform user=www-data processes=2 threads=15
+#WSGIScriptAlias / /srv/transform/eartheconomics/wsgi.py
+
+ <VirtualHost *:80>
+      ServerName 10.253.70.221
+      ServerAdmin jgerrish@eartheconomics.org
+
+      PassengerRoot "/home/deploy/.rvm/gems/ruby-1.9.3-p374@evt-transform/gems/passenger-3.0.19"
+      PassengerRuby "/home/deploy/.rvm/wrappers/ruby-1.9.3-p374@evt-transform/ruby"
+
+      DocumentRoot <%= @params[:docroot] %>
+      <Directory <%= @params[:docroot] %>>
+          Order allow,deny
+          Allow from all
+      </Directory>
+
+      # Log Files
+      ErrorLog /var/log/apache2/error-transform.log
+      CustomLog /var/log/apache2/access-transform.log combined
+
+ </VirtualHost>
+

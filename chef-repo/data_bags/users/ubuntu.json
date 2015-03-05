@@ -1,0 +1,8 @@
+{
+  "id": "ubuntu",
+  "ssh_keys": [
+    "ssh-dss AAAAB3NzaC1kc3MAAACBAJBx5A0tQqy6E0ChFe8MsbhxPUXjdujn8u2Lg1o18WE2hoYLCRqL51FOvNOrqUWF/k/tB0eEHg6ROJtk4QNXF6OtzjJI16wlR8EiTdeRpWGnX/Tchtg/hQ/FR9eqWNcP413I1p6qIQhUtiQ5Cgb2HlJKPNpsP1nG15ZsqGIeqaTRAAAAFQCjQYXyoMNuP9y2HMJDGcqwnn5TBwAAAIEAh8mujeVHYKEFoS+NmIXDnVmXGOmXG7811EAUynZgsnOCdTf74t5mYHO5bzjQQUpWhcT29z57M3RYjFlyJJj4hudDlddwPmKL0Wru3pYUceABXyr4MEi4Habx1ElQsIuffzNvcgoBre1oWxjwM6NLK8OrsZ4RJYU6llB3LvU3yyQAAACAEaaTinqAp8PCsTtpDJy+9lYA1VXXWrBgAdFk8tA7l/LefNTTGtBV9lh4twzn6OEJcKbFNJ6gm/g5ELBka78j+i9+2OnRo/jXNTEKqne3OQxlGAdGUqDCQv5I3hOlL1kGe6zSjHgAvNqX9PbYD/X1lrx+eWqlH6bQSzdu889psRs= josh@xps1340"
+  ],
+    "groups": [ "sysadmin", "ubuntu", "users", "admin", "adm" ],
+  "shell": "\/bin\/bash"
+}

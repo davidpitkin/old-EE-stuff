@@ -1,0 +1,9 @@
+{
+  "id": "krishna",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDiklolBiJnzLmVUC/U4hHkF8Ap8ebBVdsYOgQKKcUVz6YvZK0En6qqO0Xl+vwGJIB3FjUxqDfEPli6VnDaoLOzGMuy4gltSTZu8sB8zx62HqV7w3x/t9rbrcD+suLBxnuQppF9y76k2FyYoMkK+3OEaVVRdJ6bVoHki+Uv2OG+wcYHDB/j3rhk/UuJMuMGEpUlH/3CFGlICBQ88oBkdAXk0nlHwu+G14my9poanD+aYEgPUjtc3cBIcilruaWsXCcl6ooDV6EFOs8iNcOw2L8JEBZI5KJXdaG3kQ6IpvT16NZe5oPQuvaPqA2cq2djshYhK+1JFMwbc/HLIjCrzdqZ krishna@Krishnas-Lion.local"
+  ],
+  "groups": [ "krishna", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

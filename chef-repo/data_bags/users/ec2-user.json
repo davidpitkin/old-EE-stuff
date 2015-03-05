@@ -1,0 +1,10 @@
+{
+  "id": "ec2-user",
+  "ssh_keys": [
+      "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC29eVySEII3Qk+HGOYB0HroyWQ+6TLIH9uVJtGLbkjPjlYw0hGnCfmH/4NUEiDFcQY/GTHvU+PUB6QDc4puzgrV8AAj8jaxdqA0hesFEFoZYKy5mjIcFFj1AswazJj0/OcdZJ3QgvM1DR08glDjVreSw+A7UuKAj6uABJ1EmSdfvSyU3sz+TnfiuQW/UGkA4+tsLkMovS6Xo5F/bmyHbSL0hc3jVKhZlGLtjaI+iyjcpM1M/xqiPni418cvHgrCYnBdtsTsRIjeQRnYutZW48q730jwne/j7+xSu6eL1WAJy+U2tRdvtkF/ba2VrGxl1MuOnGLWa3Hy6j27qx3B7AP jira",
+      "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAgKCdgw6fStupyZ9fLIqD/ubIajTy/SWc7dGfRBRYQUVCudWre0tsvVOAljs6C65+sCHy7PWscbqAn42z5PoZEMRznnSi8e5CwWJ+rIYE6BLuEeMh3YQD3b4yQg811MtgbUEf0FrlWxMmO+XCxrnxJG8/ymzflAtmK06BkSJACUc= rsa-key-20120827",
+      "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCi3epQQkGWpl1IKLp+f/HM0nWV0/cPdf2ETB5Rxcp5o6QOiCExgORa5QjfMpMt06nv3XMW1gQhQ2P//yJTJzZKPbH0qEkQZTYI5JakD1XSFBt6/iYRijWAhopg9339ck7j/Ktd+NO4gzJPDy+zG8s6/Q4lLIXkmGkhtQttHpOM0kiXhg9e6qI4rNPuJ/Q0EfUEdXCD1H8doqEzAz/OcBpSed+GlWQ9pSqoUmYPUqlzyPPesEW0OCQ+lvl8f9AGWYw3dVY4udSngW2kMfmxCCw8mX/NctYSaLBKKyY7jp3EY347onlk6iC6h0RjqTI+h0Mkb7A2DRixtgVg5zh5I7Gz chris"
+  ],
+  "groups": [ "ec2-user", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

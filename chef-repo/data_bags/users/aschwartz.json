@@ -1,0 +1,7 @@
+{
+  "id": "agenerette",
+  "ssh_keys": [
+  ],
+  "groups": [ "agenerette", "users", "jira-admin" ],
+  "shell": "\/bin\/bash"
+}

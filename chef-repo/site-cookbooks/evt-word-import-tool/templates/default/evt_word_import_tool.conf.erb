@@ -1,0 +1,26 @@
+Alias /robots.txt <%= @params[:docroot] + "/static/robots.txt" %>>
+Alias /favicon.ico <%= @params[:docroot] + "/static/favicon.ico" %>>
+
+AliasMatch ^/([^/]*\.css) <%= @params[:docroot] + "/static/styles/$1" %>>
+
+Alias /media/ <%= @params[:docroot] + "/media/" %>>
+Alias /static/ <%= @params[:docroot] + "/static/" %>>
+
+<Directory <%= @params[:docroot] + "/static" %>>
+  Order deny,allow
+  Allow from all
+</Directory>
+
+<Directory <%= @params[:docroot] + "/media>" %>>
+  Order deny,allow
+  Allow from all
+</Directory>
+
+WSGIScriptAlias / <%= @params[:docroot] + "/mysite/wsgi.py" %>>
+
+<Directory <%= @params[:docroot] + "/mysite" %>>
+  <Files wsgi.py>
+    Order allow,deny
+    Allow from all
+  </Files>
+</Directory>

@@ -1,0 +1,43 @@
+ #Djangos embeded mod_wsgi
+#WSGIPythonHome /srv/evt-word-import-tool/lib/python2.7
+#WSGIDaemonProcess evt-word-import-tool display-name=evt-word-import-tool user=www-data processes=2 threads=15
+#WSGIScriptAlias / /srv/evt-word-import-tool/eartheconomics/wsgi.py
+
+WSGIDaemonProcess evt-word-import-tool python-path=/srv/evt-word-import-tool:/srv/evt-word-import-tool/lib/python2.7/site-packages user=deploy
+WSGIProcessGroup evt-word-import-tool
+
+ <VirtualHost *:80>
+      ServerName 54.245.158.179
+      ServerAdmin jgerrish@eartheconomics.org
+
+      # ReWrite URL to WWW
+      #RewriteEngine On
+      #RewriteCond %{HTTP_HOST} ^54.245.158.179
+      #RewriteRule (.*) http://54.245.158.179$1 [R=301,L]
+
+      #AliasMatch ^/([^/]*\.css) <%= @params[:docroot] + "/static/" %>$1
+
+      Alias /static/ <%= @params[:envroot] + "/static/" %>
+
+      <Directory <%= @params[:envroot] + "/static" %>>
+            Order deny,allow
+            Allow from all
+      </Directory>
+
+      # Log Files
+      ErrorLog /var/log/apache2/error-evt-word-import-tool.log
+      CustomLog /var/log/apache2/access-evt-word-import-tool.log combined
+
+      WSGIScriptAlias / <%= @params[:docroot] + "/wsgi.py" %>
+
+      # Prevent django from serving static files
+      DocumentRoot <%= @params[:docroot] %>
+      <Directory <%= @params[:docroot] %>>
+          Order allow,deny
+          Allow from all
+      </Directory>
+
+      # Setup mod_wsgi
+
+ </VirtualHost>
+

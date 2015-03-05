@@ -1,0 +1,8 @@
+{
+    "id": "pchristopher",
+    "groups": [ "eng", "pchristopher", "users" ],
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCdGIaG8MuLOPoqICcP7vfdQuI7DHluA+MaWbHo+vJJWCvk5jxG9a1N6hNL7PdxRbdLxzDoDCZLW3wuu6U65RpbXOPr5oD3217WLrpDsyqD0iDGo6NQA83qVx/+c1nOCThAU7DILe6UHHC4R7I1DrobeiNaNLQBDfp28TjN87rWTBLOtGT7iC1M80t1RG0j3ybUhHA7fifQRGKcz4rPFB/GX12//sIUxVFzGs+2TiTt81Kf1kgP7i1Whk5+zo+AUZOJVoO076UM+zZ7hdPRzjGmhT+/ICUmpI7cZJMmvcUfrMp9jyJQNpo/BA7epsfMO+YVwrm54nA5N0ACWokQSrAB dpac-keypair"
+    ],
+    "shell": "\/bin\/bash"
+}

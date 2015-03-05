@@ -1,0 +1,8 @@
+{
+  "id": "pbabbin",
+  "ssh_keys": [
+    "ssh-dss AAAAB3NzaC1kc3MAAACBAKpyS6nMKxcFNuyy9OV4eTyPm4PtUnRn03n/PGpwDZJzAa3U41P8w/VVBYQn/qDsmh0jfz7ASPrFYI/jXpx0Y+ktzdoF0bocX5Itpv9S1BNvD/7XOvaWjrDSTXf82t4KWhGOjWAI5ui4F66WYVVFvrOcSbXevMt9SWFq4dUK8vohAAAAFQDysSTyNVqkFYOEbEwEpb3OT8xN5wAAAIAilAbMHLdlhGQOAkcaMs7LeQLDfw5BSqJSm7yu2vozHsc0FN6Bo1BKUpRGlu4vzBD+O0MXt3aZDozrCKcN5/VxUzp3lGS0hDEjm8RM245pxzcbZF0Y/5GEpTvfXDrSuuHgTFwkP9rXBt838O283p1r0ZlWvf+mIldLSrc6tR0xqAAAAIADp2Kh6/2WKBD9Ote7zXd4h5kden0Wr1abP41m3Y4GBAgzdBOgnnsNJ0VdgeCCgFU6rm5ipizkyn/dAx58b4AmntENz0/fCe1NySrQ/ky4KgJ7cTNOyzYu9qphehhy0cQ+lbAbcLYhLCeboxi2Wo2AY/RH1XVIm7N73u9p59IGzg== dsa-key-20130605"
+  ],
+  "groups": [ "pbabbin", "users" ],
+  "shell": "\/bin\/bash"
+}

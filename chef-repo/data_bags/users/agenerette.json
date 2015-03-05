@@ -1,0 +1,8 @@
+{
+    "id": "agenerette",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJ60MMLIHySzzCw76YVRDnZWZsoQV3aJMpWFaBBDnoNtCuwhWM03d9zJ1sTyF/3Di2d2DYjAASK5wPq+XsrU4rL/UcJMf1vVuGfarp+zrri7gIUud+aAHtFOU7Sz3tU6xWyzJ9Xq3OWScsx/ldPEVoJ5CG51os3PHUx04VAIwknsRwih0TRCRG2abUVYSyNbf2nCLNzRaheiyQbqneo1hpOqSDbiWbkxSeZFJpEJl1caROFU5bNMyFSHFNXB71VhC8owkstx/+rJtWAIGnTAAzV0PKqTG/qvGYB/2cJU4OXyrAMY+bN5bbjxuCt4ixlR336WtZl1EocPM2iTo2U7jv abgenerette@agenerette-MacBook-Air.local"
+    ],
+    "groups": [ "sysadmin", "agenerette", "users", "admin", "adm" ],
+    "shell": "\/bin\/bash"
+}

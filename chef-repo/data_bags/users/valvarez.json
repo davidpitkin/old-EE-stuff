@@ -1,0 +1,9 @@
+{
+  "id": "valvarez",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCiAzbDB9B3pg8l70b2gs7U6mG32LhzRl0sImAkE67JYaKcs9MYma1l5K6e22n8+ZPSqrqxJgltDy70znKmowFFYb6Soa+bUtACqYy3aOKBJjC67ekvUNJVurrrsh1ti4N55GwOC7wlsBeMEi06B5F7Q2hWL/mea1gyrWEZDuTT2T21f+c3scieEkUAWwZOdZUbI16sH8FsT0stZ1Ozxt++tnpahhSBKU8hxOW8N04t9/4ANSyLRbM8tKcPhr+zMU6pvoRm5N21+s3a7haWO8OGKMv6cI0XwPz2PZXcDTc0h83KSnYFKJH+yE/2wGzP6mogOjjw7RbPjUfhyafLOmkj your_email@example.com"
+  ],
+  "groups": [ "valvarez", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

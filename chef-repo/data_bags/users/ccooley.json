@@ -1,0 +1,9 @@
+{
+  "id": "ccooley",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAgKCdgw6fStupyZ9fLIqD/ubIajTy/SWc7dGfRBRYQUVCudWre0tsvVOAljs6C65+sCHy7PWscbqAn42z5PoZEMRznnSi8e5CwWJ+rIYE6BLuEeMh3YQD3b4yQg811MtgbUEf0FrlWxMmO+XCxrnxJG8/ymzflAtmK06BkSJACUc= rsa-key-20120827"
+  ],
+  "groups": [ "ccooley", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

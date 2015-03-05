@@ -1,0 +1,5 @@
+{
+    "members": "name:portal-integration",
+    "hostgroup_name": "portal_integration",
+    "id": "portal_integration"
+}

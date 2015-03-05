@@ -1,0 +1,14 @@
+{
+  "id": "jgerrish",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAkN5lBhBA7ccMKMxTicOkOwmjJd+lF544zLV0aUzl0n20JYmvUQzVql8Dt5uo766HUT19OxKuPephMqtMo+SaWd0iIR6sOHSINqV6RbRqe6qRcY6Fvwkof5a6+rc8Yp9x8dxsBMjF6C0TnSSVbIe0XHVtPhX2EtIZnV3C4viAWlc= rsa-key-20130604",
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGZ3AfWtIWfqY9992IfCJzHwuxCjFvOlXYYiZCHUF54VPBm6Ty/2RZ5F3SWXpOlmU2xMy5dnFjzccIbL2lOaD/ep3cZTx1YKt8FPYfIHpttXDLiYDYZvFPJeE6OuW4uawHU4jMZQFNQWd//gmf79eaWsjIfULnFFFFAkM2xIk+hlisnS4sij/nX4Sx5JQGmcIyZIA8GcIW3aTRIr4EPxzvrFS2acqUGJ5lALP4wCGwJtrRuvRT5EppirYqCiS1EYgKfAkIXxKwIz4lnDr//gmAExOoT2J8DakbEuy7Ua7i7tpo+tT9Utbj6hEijyi744WAONlHyEYcnSnI8ZS0MRql josh@ideapad-Z570"
+  ],
+  "groups": [ "sysadmin", "jgerrish", "users", "admin", "adm" ],
+  "shell": "\/bin\/bash",
+  "nagios": {
+    "pager": "jgerrish@eartheconomics.org",
+    "email": "jgerrish@eartheconomics.org"
+  }
+}

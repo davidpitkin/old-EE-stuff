@@ -1,0 +1,5 @@
+{
+  "id": "jmaddock",
+  "groups": [ "sysadmin", "jmaddock", "users", "admin", "adm" ],
+  "shell": "\/bin\/bash"
+}

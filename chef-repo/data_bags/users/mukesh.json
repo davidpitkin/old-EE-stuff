@@ -1,0 +1,9 @@
+{
+  "id": "mukesh",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+	"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDA70D+OmD4Hkg+FtOHUT/VnEbmxm3ImU6m8xMhb7UoxRdbf2YFEc/y+dr4uW0DXcGx4tK/51lN237ZNtSjA9xioO6xVQr241L9TSJEiyYlxxuXIRtJxrKRzV8tiAMa29+LJ0v3IqNeVosqp//SDCn3gnshHEIueZFw6rbo4UZc1JjN/rIhrOkP3X6FdpSZBT5ImQJtTYC1fQ2TZhLaNOqe5diBXk8hjViJn8cSdKRenpyn6+vNxGoePY4aIv9yLzpNsWt/4imfFbBOd429w58sGPEO7xl5W5SF/XDoVTvUerhUTQfPE+QVNr6kJFWG08iEM5lL9TmUQonIMHbcQJBx mpatel.ror@gmail.com"
+  ],
+  "groups": [ "krishna", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

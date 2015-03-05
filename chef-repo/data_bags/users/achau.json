@@ -1,0 +1,8 @@
+{
+  "id": "achau",
+  "ssh_keys": [
+      "ssh-dss AAAAB3NzaC1kc3MAAAEBAKMLGadFtWreWcf6x0Wh33AUazy1+hLG4MscPucZDtHB0temZGVjqOY1Xb/TVTVOZFCkdiVqwuIuMe8CqkMZLpMMBoECFGjjViktCjEmQ26B6wKx7gNSm7f0icDCnQ2insuHBtqp58BFpuru1dh29W3d5o+Qus+lnXtqgsR9YqoG/0y/tLrQBvmRp6UyrfAWFzXulcWS4e5yml4mTRAJYIfhRQLlGPpmMESzVPzvJtxWzkKiNgE+xlBl/uMdK/Zz8XCMjXXf4svtQ4oHLm2lZoIAa+aM89gPTSGGEty+4bwGe5Uv8NcOHdjmxMfMYAxi7QXbtM2L8Mr2jwARxcjf30EAAAAVAMGw5EzQ/kwbxrKwJk9fRz9+UQzZAAABAQCVM8u6HtnlaekpcguVUtAA7eMlwskqMSd15aJCbFaXh0EuZU2t0HbnIp4OO7+NYp9h5+HmnREhOGUUppuhGUgTPM++XZh73lo2jaP/PsuRWngKxeJUDo1RmguTXnY/2htBHLqO+UlSWRc4/2sKjV3re3yCX7/8Xd4zpk6vVaJHyxi7tv10hnE0/kqr6hx8slewhj+oPKFICmdiDzGVYAbw43zGbeT48a0+WpFroEDfaxyxs35jtDdEsI0td5u6uChaYCKinlX/PhL2w6k0DGLe6xzwFOIaR5bEp2FdoaWPSgA/sL511NUb3BpL5GexnryjIemlhBJcceyvxaewP7wHAAABAQCDGBTMA14ZnhJUF6hp/0sGyWXRaImjX5o0XX0tOTlFqSV9+nAPQRp8ue1lX90HGWlUC/FjE+dAtAwIZ3/8j/Do56ZEjuMyjq1uaNgPZxOEqcI0p8e8yhbkYsAJEJ/vQGPraPaVW9Z1kDYW+0acX/7a5DPdppK7RI7bVuasmVxstM26tN3YiOkp/B0BTVZE7r0Sqrdk9Qil4oaViTjNU8/khGDrzcMcRupmziu69Bggdswv8DwUYHhMw3a9E1nAIBPmEH1Oa8s3aSNg/ho1+wo8n1gIF6Qeg0aipBha2pRuaoVoL+6jfgCs1+lnT+O/w7N0GGf8HPjeqfRrC35QyPP9 dsa-key-20131216"
+  ],
+  "groups": [ "achau", "users" ],
+  "shell": "\/bin\/bash"
+}

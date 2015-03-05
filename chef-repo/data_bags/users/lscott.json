@@ -1,0 +1,8 @@
+{
+    "id": "lscott",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6hGF9137Equnt5mFwR+7UbO7lkOU2XVV1z0o4fLbS6TveL1zA7ilOK4KfczznLVNcseBHjtmDCvKCAO4HpzmxEXOb7IdiD0Glu07cyGAXNjnuH0a/ghNnVxuyb0KIjs33mwc0hn7sLhxtJvRiTerSht1J9BTY0Hz1ILLCk8aXx1nAKzTJZnPe4indtv9lH/7VfzzNlKRp+BnNa/6uI76wZIDwiMC4e9ddTZ9W4FW0GlBA/nF/f9jmYyqTuU0LxpAwgJtgwKJwHX2iCL3KipREJu7QaPh9eblIqR1sQxlubYIQxggXM5BA4cLPlsFy+SlnWmUsrJVWBHHTgAzRlDXb luke@vaio"
+    ],
+    "groups": [ "eng", "lscott", "users" ],
+    "shell": "\/bin\/bash"
+}

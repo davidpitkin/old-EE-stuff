@@ -1,0 +1,8 @@
+{
+    "id": "templateuser",
+    "ssh_keys": [
+        "<paste key here>"
+    ],
+    "groups": [ "templateuser", "users" ],
+    "shell": "\/bin\/bash"
+}

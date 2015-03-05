@@ -1,0 +1,9 @@
+{
+  "id": "rails_dev",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCs7gETDXGav0cVRzrscbxhSEpLvSA6N3ybmPbdeZACherQTlXCFHqtEQGhQyFMBm8JUnoMfFs+crAONFk2ivHB8vGUHLKDsKuBFfzjmX/xciMr7V/J0m/n/mvTaVWp6fVczpNhwXKkhhEzAFEzRuV3n+FTkDlSNjjYE4L9mwra1Kbq76EzXuZZIj1+54xTGnMhA8OkoW81oL4qrj9pJKlKsk9E/mbxNUFwiwdjW8IcLzwbiC09XZXKJHo5P702P9TBd9k/GepZTiix+9FLNCAjC2Dis2gGmDPiG6eyyZqth/JTQvGSq/MtFw12VKF/fVYTA9XLDhRWvTGlid20V9sR rails@mylaptop"
+  ],
+  "groups": [ "rails_dev", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

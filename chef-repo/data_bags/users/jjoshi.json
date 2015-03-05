@@ -1,0 +1,8 @@
+{
+  "id": "jjoshi",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDzeERr9oh0EGJcU6X992T6OPgGytinwcFvD/R532wotB8B93sxxgpOnF15xGDCi6J5xSLTTl1ytrxu70UkiiXjcs/5/TrQs4QIzQjZK+rnrXsPanjdGoolyTVzNpktmFW2dfuEjw6khuPFw8xAxayA9cfRNgLfty8c/xzDEO2vgxSfeTjp+ZACsUitXwD8MfPr5z57xwwe1PomV1PfTKccMbKGMQlxJszNsGTgYQOcZO06eR9pcL1MihKl7q/XTet6nWXNTfo5XaML1nlJP/gS67qYYT6wIolQboremRNsY4X+9tHx0v9gzedgJYH3GdS+GWnmUlKPWCzJ5G4LRic/ joshijitendra000@gmail.com"
+  ],
+  "groups": [ "jjoshi", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

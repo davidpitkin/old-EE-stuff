@@ -1,0 +1,8 @@
+{
+  "id": "rbernier",
+  "ssh_keys": [
+      "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA772XPWxDw+wefsy+FOMDGYEM/BYxKZZ0H/7kXEz2U6n8dO/AIP3RiDJxn5rQlShR5K6Cfw0WG9ynu0tf/ouoO87+G42bK56GMtsNJeVxGFiamau5S6rvN2fmmhQeQ62M1BNPQ3YqjlHsdFfh4k8yykXHHRN/hoHxlvqf4L2gqgNCsfJaaMLy6z+QB74pbvG12vT0pK8trbQC90sEBeY4TSeNQyZG84bYiB6TmODJffpAzcmpdcScdxepR1F/HNpwTFrcmdUB/trIm3jAUjSwLpdc3m3GyR4MdrWgeA83VnrJJ1FmZOTAw8mNngRmhAUIVtak+Slt/JiFUvOPwa3TPQ== rbernier"
+  ],
+  "groups": [ "rbernier", "users", "admin", "adm" ],
+  "shell": "\/bin\/bash"
+}

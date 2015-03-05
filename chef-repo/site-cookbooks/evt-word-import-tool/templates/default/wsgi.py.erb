@@ -1,0 +1,8 @@
+import os
+import site
+import sys
+
+# set up python path and virtualenv
+site.addsitedir('/srv/evt-word-import-tool/lib/python2.7/site-packages')
+sys.path.append('/srv/evt-word-import-tool/eartheconomics')
+os.environ['PYTHON_EGG_CACHE'] = '/srv/evt-word-import-tool/lib/python2.7/site-packages/django/core/cache'

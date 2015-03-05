@@ -1,0 +1,10 @@
+{
+  "id": "smashek",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBU4PMYg7WRZRTFEKuzlHG4mNiOBg7spOgNsUVoHaNI/jVLr/7ntIcf66gHNZUJVuGgGu650uU/V2mfeNyBs64xvz7EcCQpbUGvh3iY2zu4wXmEviuRVryeeP05EiJcx7Bevz8VkRFgOtIPnyz0M+klvWtBg47wRg62KBKswbIMDso3Rvtelq2URS0BkBXjAvxf9qBfsWKYZHhqhrE5XeJWMARebFUmrHup4z8c6jZLoFcqKMzkioe+4J1wAOp4wFviOgWjwnikEwZKwPbdyVTLtE5pbEQwMI0nNIumAlZR0KfBqHHA+jwYsywQgBeTVklP+2Xw4bNEFCqOFNqBbdt thomas@thescoundrels.net",
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZzSybsRWa5R2DUxW5n17gi43nRi/nVzZFkH9Ca/thwjfNeJQhn2XM4+9jhVYCsCVoOet2i20PxqrnOuv5f9eA5qMJ/1VEifh9IaepF130EfQsRc6lgQrTYfLDTnMgoRQn87HOaoAvGuPMIanulNs5G9eIC9s2tDI2FUUrV4pdRzkF4P8K620W/XUjisO/DX7Dq3N6Q5mJOtVJVq+GSWah4FMhax4A7BcpPCOCj1ioDJ/sYOQdmy2v3p2RwD0VDIoElXVJ9wp8XGtFx1crfhFHYD+wodps16kEwpni2irZDXx5L+51Db5VlwWiqit74PxCTZtklHsuHv23xxh+TOOB mashek@thescoundrels.net"  
+  ],
+  "groups": [ "smashek", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}

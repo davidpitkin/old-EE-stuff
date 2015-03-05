@@ -1,0 +1,6 @@
+{
+  "id": "vagrant",
+  "htpasswd": "{SHA}gZbdFYc6wY+EidqjR00b0/QlERU=",
+  "groups": [ "vagrant", "users", "admin", "adm", "sysadmin" ],
+  "shell": "\/bin\/bash"
+}
